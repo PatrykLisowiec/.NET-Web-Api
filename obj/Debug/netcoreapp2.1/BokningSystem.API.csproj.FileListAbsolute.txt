@@ -1,0 +1,14 @@
+C:\BokningSystem\bokningsystem.api\bin\Debug\netcoreapp2.1\BokningSystem.API.deps.json
+C:\BokningSystem\bokningsystem.api\bin\Debug\netcoreapp2.1\BokningSystem.API.runtimeconfig.json
+C:\BokningSystem\bokningsystem.api\bin\Debug\netcoreapp2.1\BokningSystem.API.runtimeconfig.dev.json
+C:\BokningSystem\bokningsystem.api\bin\Debug\netcoreapp2.1\BokningSystem.API.dll
+C:\BokningSystem\bokningsystem.api\bin\Debug\netcoreapp2.1\BokningSystem.API.pdb
+C:\BokningSystem\bokningsystem.api\obj\Debug\netcoreapp2.1\BokningSystem.API.csprojAssemblyReference.cache
+C:\BokningSystem\bokningsystem.api\obj\Debug\netcoreapp2.1\BokningSystem.API.csproj.CoreCompileInputs.cache
+C:\BokningSystem\bokningsystem.api\obj\Debug\netcoreapp2.1\BokningSystem.API.RazorAssemblyInfo.cache
+C:\BokningSystem\bokningsystem.api\obj\Debug\netcoreapp2.1\BokningSystem.API.RazorAssemblyInfo.cs
+C:\BokningSystem\bokningsystem.api\obj\Debug\netcoreapp2.1\BokningSystem.API.AssemblyInfoInputs.cache
+C:\BokningSystem\bokningsystem.api\obj\Debug\netcoreapp2.1\BokningSystem.API.AssemblyInfo.cs
+C:\BokningSystem\bokningsystem.api\obj\Debug\netcoreapp2.1\BokningSystem.API.RazorTargetAssemblyInfo.cache
+C:\BokningSystem\bokningsystem.api\obj\Debug\netcoreapp2.1\BokningSystem.API.dll
+C:\BokningSystem\bokningsystem.api\obj\Debug\netcoreapp2.1\BokningSystem.API.pdb
